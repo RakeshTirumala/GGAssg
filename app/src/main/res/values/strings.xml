@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <string name="musicwiki">MusicWiki</string>
+    <string name="genres">Genres</string>
+    <string name="genre">Genre</string>
+    <string name="expand">Expand</string>
+    <string name="albums">ALBUMS</string>
+    <string name="artists">ARTISTS</string>
+    <string name="tracks">TRACKS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_artist">ABOUT ARTIST</string>
+</resources>
